@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5rem;
+}
+
+h1 {
+    margin: 50px auto 20px auto;
+    font-family: 'Secular One', sans-serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+p {
+    line-height: 1.7
+}
+
+hr {
+    border:dotted gray 7px;
+    border-bottom-style: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.profile-img {
+    width: 10%;
+}
+
+.middle-container {
+    font-size: 1.2rem;
+    margin: 100px 0;
+}
+
+.description {
+    width: 30%;
+    margin: 50px auto 100px;
+}
+
+.bottom-container {
+    margin-top: 100px;
+    padding: 50px 0 20px;
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    font-size: 1.2rem;
+}
+
+.contact-message {
+    width: 30%;
+    margin: 10px auto 60px;
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+}
+
+.delop-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.guitar-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.footer-link {
+    color: #11999E;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0 20px;
+}
+
+.BUTTON_IKY {
+    background: #11999E;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px 50px;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_IKY:hover {
+    background: #15d1d1;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
